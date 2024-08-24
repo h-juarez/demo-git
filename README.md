@@ -3,4 +3,4 @@ Demo about git commands
 
 This change will be reflected on Github
 
-Today Friday is a excelent day.
+Today Thursday is a good day.
